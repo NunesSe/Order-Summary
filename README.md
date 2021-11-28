@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/NunesSe/Order-Summary)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://felipe-nunes-order-summary.netlify.app/)
 
 ### Built with
 
